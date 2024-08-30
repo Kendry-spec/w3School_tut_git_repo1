@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    color: navy;
+    font-size: larger;
+}
+
+body {
+    background-color: lightblue;
+    margin-left: 20px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
