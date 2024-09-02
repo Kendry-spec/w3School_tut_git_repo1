@@ -8,4 +8,4 @@ It serves as an example and is demonstrated throughout the tutorial on the w3sch
 
 The site's clear presentation of concepts makes it an invaluable resource.
 
-Thanks!
+Thanks! for this resource!!
