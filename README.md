@@ -1,6 +1,9 @@
 # hello-world
 
-Hello World repository for Git tutorial
-This is an example repository for the Git tutorial on https://www.w3schools.com
+Hello World repository for Git tutorial.
 
-This repository is built step by step in the tutorial. Thanks to this site, because the concepts are very easy to understand.
+Kindly find the "Hello World" repository for the Git tutorial.
+
+It serves as an example and is demonstrated throughout the tutorial on the w3schools website ( https://www.w3schools.com). 
+
+The site's clear presentation of concepts makes it an invaluable resource.
